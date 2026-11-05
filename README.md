@@ -11,10 +11,4 @@
 </div>
 
 # Time
-
-
-
-
-
-
 [<img loading="lazy" src="https://github.com/kauacardoso-btz.png" width=115><br><sub>Kauã Cardoso</sub>](https://github.com/kauacardoso-btz) 
